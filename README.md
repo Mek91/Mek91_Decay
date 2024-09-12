@@ -32,7 +32,6 @@ First of all, [‘Download From Here’](https://github.com/Mek91/Mek91_Decay/re
   <!-- 
     Whitelist_NoDecay: 
     This section represents items that should not be affected by decay. List items here to ensure they are not damaged by decay,
-    but instead have their health increased.
     Make sure the items listed are placeable in the game environment.
   -->
   <Whitelist_NoDecay>
