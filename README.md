@@ -5,7 +5,7 @@ Rocket.Unturned is an Unturned Plugin made with Unturned, its purpose is to redu
 Please indicate any shortcomings or ideas.  
 [Join the Discord](https://discord.gg/Fc3UjkUK5T)
 
-👇**SETUP**👇
+👇**SETUP**👇  
 First of all, [‘Download From Here’](https://github.com/Mek91/Mek91_Decay/releases/download/mek91_decay.v1.0.0.0/Mek91_Decay.Version1.0.0.0.rar) then extract the .rar file you downloaded directly into the ‘Rocket’ in your server file and that's it.
 
 👇**EXAMPLE PLUGIN CONFIG**👇
