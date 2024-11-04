@@ -11,7 +11,7 @@ First of all, [‘Download From Here’](https://github.com/Mek91/Mek91_Decay/re
 Place items you place to heal decay in such a way that the generator knows they are in its area of effect, and all generators will heal items that can be placed!
 
 👇**EXAMPLE PLUGIN CONFIG**👇
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <DecayConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <!-- 
